@@ -1,0 +1,29 @@
+
+body{
+    background: #03aaec;
+    
+}
+
+
+form{
+    background: #b7deed;
+    text-align: center;
+    color: #fff;
+    padding: 20px 20px;
+    width: 400px;
+    height: 500px;
+    margin: 60px auto;
+    border: 3px solid yellowgreen;   
+}
+
+input{
+    width:80%;
+    padding: 8px 8px;
+    border-radius: 7px;
+
+}
+button{
+    padding: 8px;
+    border-radius: 6px;
+}
+
